@@ -1,0 +1,75 @@
+ext:php
+inurl:api
+inurl:/rest
+inurl:/v1
+inurl:/v2
+inurl:/v3
+ext:log
+ext:txt
+ext:conf
+ext:cnf
+ext:ini
+ext:env
+ext:sh
+ext:bak
+ext:backup
+ext:swp
+ext:old
+ext:git
+ext:svn
+ext:htpasswd
+ext:htaccess
+ext:json
+inurl:conf
+inurl:env
+inurl:sql
+inurl:backup
+inurl:admin
+intitle:"error"
+intitle:"exception"
+intitle:"server at"
+"database error"
+"SQL syntax"
+"undefined index"
+"unhandled exception"
+inurl:login
+inurl:signin
+intitle:login
+intitle:signin
+inurl:secure
+inurl:test
+inurl:dev
+inurl:staging
+inurl:sandbox
+inurl:debug
+inurl:temp
+inurl:internal
+inurl:demo
+inurl:upload
+"choose file"
+"upload file"
+"select file"
+inurl:apidocs
+inurl:swagger
+inurl:api-docs
+inurl:api-explorer
+ext:pdf
+ext:xml
+ext:xls
+ext:doc
+ext:docx
+ext:ppt
+ext:pptx
+intext:"confidential"
+intext:"Not for Public Release"
+intext:"internal use only"
+intext:"do not distribute"
+intext:"secret"
+inurl:email=
+inurl:password=
+inurl:secret=
+inurl:/crx/de
+inurl:/server-status apache
+inurl:/wp-admin/admin-ajax.php
+intext:"Powered by"
+intext:Drupal
